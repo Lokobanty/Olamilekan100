@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Olamilekan100
+- 👋 Hi, I’m @Olokobanty
 - 👀 I’m interested in ...Cybersecurity and Software testing
 - 🌱 I’m currently learning ... Cybersecurity
 - 💞️ I’m looking to get ... Hands-on experience
